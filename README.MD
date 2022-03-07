@@ -1,8 +1,9 @@
 # Fast Three-Sum
 
 Three approaches to solving the 3-sum problem:
-* Column-Search
-* Minimized Zeroboard
+* My algorithms:
+    * Column-Search
+    * Minimized Zeroboard
 * Standard solution with two pointers
 
 ### Runtime Results
